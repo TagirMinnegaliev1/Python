@@ -1,0 +1,6 @@
+str1 = input("Введите фразу:")
+str2 = input("Введите фразу:")
+str3 = input("Введите фразу:")
+print(str1)
+print(str2)
+print(str3)
